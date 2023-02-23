@@ -60,3 +60,6 @@ crashlytics-build.properties
 
 # vscode settings
 .vscode/
+
+# ignore editor arrangement
+UserSettings/Layouts/default-202*
